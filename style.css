@@ -1,0 +1,40 @@
+@font-face{
+    font-family: montserrat;
+    src: url(font/Montserrat-Regular.ttf)
+}
+*{
+    font-family: 'montserrat';
+}
+.txt-home{
+    padding: 90px;
+}
+.title{
+    color:green;
+}
+#img_home{
+    padding-top: 30px;
+    height: 40%;
+    width: 40%;
+    padding-left: 60px;
+}
+#img_about{
+    padding-top: 30px;
+    height: 40%;
+    width: 40%;
+    padding-left: 60px;
+}
+#aplikasi{
+    margin: 30px 30px 30px 30px;
+}
+.about-txt{
+    padding-left: 90px;
+}
+body {
+    padding: 25px;
+    background-color: white;
+    font-size: 25px;
+}
+.dark-mode {
+    background-color: rgb(46, 45, 45);
+    color: white;
+}
